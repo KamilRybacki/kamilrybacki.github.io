@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkkamilrybacki=self.webpackChunkkamilrybacki||[]).push([[650],{6565:function(e,t,a){a.r(t);var n=a(7294),r=a(5896),c=a(8451);t.default=function(){return n.createElement(r.Z,{footer:!1},n.createElement(c.Z,null))}}}]);
-//# sourceMappingURL=component---src-pages-contact-tsx-42674b8ccc75e0195224.js.map
